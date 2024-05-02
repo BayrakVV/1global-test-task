@@ -1,0 +1,16 @@
+{
+  "name": "1global-test-task",
+  "version": "1.0.0",
+  "private": true,
+  "description": "1GLOBAL QA interview test assignment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayrakVV/1global-test-task.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Vitaly Bayrak",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js"
+}
