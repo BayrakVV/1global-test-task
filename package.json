@@ -10,7 +10,9 @@
   "license": "UNLICENSED",
   "author": "Vitaly Bayrak",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "main": "index.js",
   "devDependencies": {
