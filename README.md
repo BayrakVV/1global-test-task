@@ -48,7 +48,7 @@ Choose your preferred browser and click "Start E2E Testing":
 
 <br>
 
-Select the plans-thailand.cy.js spec to run:
+Select the `plans-thailand.cy.js` spec to run:
 
 <img src="./assets/images/specs.png" width="400" height="265" />
 
